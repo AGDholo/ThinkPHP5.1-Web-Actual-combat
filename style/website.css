@@ -1,5 +1,3 @@
-@import url("https://cdn.bootcss.com/bootstrap/4.0.0/css/bootstrap.min.css");
-@import url("https://cdn.inbuff.cn/mdb/css/mdb.min.css");
 
 body {
     font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif
@@ -10,3 +8,5 @@ body {
 #main {
     display: none;
 }
+@import url("https://cdn.bootcss.com/bootstrap/4.0.0/css/bootstrap.min.css");
+@import url("https://cdn.inbuff.cn/mdb/css/mdb.min.css");
