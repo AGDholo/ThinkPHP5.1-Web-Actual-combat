@@ -7,3 +7,6 @@ body {
 .window-head {
     padding-left: 280px;
 }
+.sidebar {
+    display: none;
+}
