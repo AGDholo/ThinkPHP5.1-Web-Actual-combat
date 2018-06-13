@@ -60,4 +60,4 @@
 
 ### License
 
-Thinkphp 5.1 教程 - Web 入门开发实战 基于 [CC BY-SA 3.0](./LICENSE)。
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="创用 CC 授权条款" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Thinkphp 5.1 教程 - Web 入门开发实战 著作采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">创用 CC 姓名标示-非商业性-相同方式分享 4.0 国际 授权条款.</a>授权.
