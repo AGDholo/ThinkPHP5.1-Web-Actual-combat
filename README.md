@@ -55,7 +55,7 @@
 
 > 请不要在 Issues 上提出一般问题。Issues 只是报告错误，请求增强功能或请求新功能。对于一般性问题和讨论，请前往[InBuff Discord Community](https://discord.gg/Vzdj3qZ) / [InBuff QQ Group](https://shang.qq.com/wpa/qunwpaidkey=dec8e7ee2f7c5cef3acc975f66379b3751e29df5dc3d15537fb14f2265028387)  提问。
 
-需要注意的是，对于每个版本，详细的更改都记录在 [发行说明](../../releases) 中。
+需要注意的是，对于每个版本，详细的更改都记录在 [发行说明](https://github.com/InStudy/ThinkPHP5.1-Web-Actual-combat/releases) 中。
 
 ### License
 
