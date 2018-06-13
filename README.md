@@ -13,7 +13,7 @@
 <br>
 
 <h2 align="center">赞助项目</h2>
-<p>Thinkphp 5.1 教程 - Web 入门开发实战 是一个为了解决大多数新手开发者入门难,编写不规范等问题的入门教程书籍, 由 InBuff 发起. 如果您有兴趣支持此项目,请考虑成为赞助人.</p>
+<p>ThinkPHP 5.1 教程 - Web 入门开发实战 是一个为了解决大多数新手开发者入门难,编写不规范等问题的入门教程书籍, 由 InBuff 发起. 如果您有兴趣支持此项目,请考虑成为赞助人.</p>
 
 <br>
 
@@ -29,13 +29,13 @@
 
 本书将教你使用现代工具流构建一个类似微博的应用。 
 
-通过本书，你将会学到如 HTML、CSS、JavaScript、PHP、Thinkphp 等 Web 开发的相关基础知识。
+通过本书，你将会学到如 HTML、CSS、JavaScript、PHP、ThinkPHP 等 Web 开发的相关基础知识。
 
 除此之外，编辑器使用、开发环境搭建、Git、Composer、Bootstrap 前端框架在本书中也会使用， 本书代码严格 PSR 规范编写，使用这些知识将会为你以后的 Web 开发生涯奠定结实的基础，无论在大型项目或是个人练手作品都能有一个好的开发习惯和规范。
 
 ## 版本
 
-这是 Thinkphp 5.1 教程 - Web 入门开发实战 书籍内容
+这是 ThinkPHP 5.1 教程 - Web 入门开发实战 书籍内容
 
 ## 更新日志
 
@@ -63,4 +63,4 @@
 
 ### License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="创用 CC 授权条款" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Thinkphp 5.1 教程 - Web 入门开发实战 著作采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">创用 CC 姓名标示-非商业性-相同方式分享 4.0 国际 授权条款.</a>授权.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="创用 CC 授权条款" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />ThinkPHP 5.1 教程 - Web 入门开发实战 著作采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">创用 CC 姓名标示-非商业性-相同方式分享 4.0 国际 授权条款.</a>授权.
