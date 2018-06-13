@@ -46,8 +46,7 @@
 
 ## 社区支持
 
-在 [InBuff Discord Community](https://discord.gg/Vzdj3qZ)  
-[InBuff QQ Group](https://shang.qq.com/wpa/qunwpaidkey=dec8e7ee2f7c5cef3acc975f66379b3751e29df5dc3d15537fb14f2265028387)  
+在 [InBuff Discord Community](https://discord.gg/Vzdj3qZ) / [InBuff QQ Group](https://shang.qq.com/wpa/qunwpaidkey=dec8e7ee2f7c5cef3acc975f66379b3751e29df5dc3d15537fb14f2265028387)  
 进行讨论反馈
 
 ## 贡献
