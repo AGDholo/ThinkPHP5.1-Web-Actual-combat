@@ -80,3 +80,43 @@ pre code {
   margin: 0;
   font-size: .85em;
 }
+
+table {
+  padding: 10px;
+  margin-top: 10px;
+  background: #fbfbfb;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 20px 40px -15px rgba(0,0,0,.05);
+  box-shadow: 0 20px 40px -15px rgba(0,0,0,.05);
+}
+
+table th {
+  border: none;
+}
+
+tbody tr {
+  background: #fff;
+  border-radius: 5px;
+  transition: all .3s ease;
+  width: calc(100% - 10px);
+  margin-left: 5px;
+  z-index: 100;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  background: #fff;
+  padding: 6px 0;
+  position: relative;
+  -webkit-transition: all .25s ease;
+  transition: all .3s ease;
+}
+
+tbody tr:hover {
+  border-radius: 5px;
+  -webkit-transform: translateY(-4px);
+  transform: translateY(-4px);
+}
+tbody tr td {
+  padding: 10px;
+  border: 0;
+}
