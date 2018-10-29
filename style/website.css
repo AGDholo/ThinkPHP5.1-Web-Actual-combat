@@ -1,6 +1,9 @@
 h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   line-height: 1.25;
+  border-left: 2px #5b3cc4;
+  -webkit-box-shadow: 0 20px 40px -15px rgba(0,0,0,.05);
+  box-shadow: 0 20px 40px -15px rgba(0,0,0,.05)
 }
 
 h1 {
@@ -9,6 +12,8 @@ h1 {
   color: #5b3cc4;
   border-radius: 0;
   font-size: 30px;
+  -webkit-transition: all .25s ease;
+  transition: all .25s ease;
 }
 
 h1 a {
@@ -16,7 +21,6 @@ h1 a {
 }
 
 h2 {
-  border-radius: 6px 6px 0 0;
   padding: 10px;
   width: calc(100% - 30px);
   border-bottom: 0!important;
