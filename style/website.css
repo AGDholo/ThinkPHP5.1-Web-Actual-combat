@@ -1,7 +1,25 @@
 h1 {
-  padding: 15px !important;
-  padding-left: 0 !important;
-  color: #5b3cc4 !important;
-  border-radius: 0 !important;
-  font-size: 30px !important;
+  padding: 15px;
+  padding-left: 0;
+  color: #5b3cc4;
+  border-radius: 0;
+  font-size: 30px;
+}
+
+h2 {
+  border-radius: 6px 6px 0 0;
+  padding: 10px;
+  width: calc(100% - 30px);
+  border-bottom: 0!important;
+  -webkit-transition: all .25s ease;
+  transition: all .25s ease;
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
+p {
+  width: 100%;
+  padding: 6px 20px;
+  background: transparent!important;
+  margin-top: 0;
 }
