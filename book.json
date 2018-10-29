@@ -1,5 +1,4 @@
 {
-    "theme": "special",
     "plugins": [
         "highlight",
         "navigation"
