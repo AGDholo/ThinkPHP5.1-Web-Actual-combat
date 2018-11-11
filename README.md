@@ -29,9 +29,9 @@
 
 本书将教你使用现代工具流构建一个类似微博的应用。 
 
-通过本书，你将会学到如 HTML、CSS、JavaScript、PHP、ThinkPHP 等 Web 开发的相关基础知识。
+通过本书,你将会学到如 HTML、CSS、JavaScript、PHP、ThinkPHP 等 Web 开发的相关基础知识。
 
-除此之外，编辑器使用、开发环境搭建、Git、Composer、Bootstrap 前端框架在本书中也会使用， 本书代码严格 PSR 规范编写，使用这些知识将会为你以后的 Web 开发生涯奠定结实的基础，无论在大型项目或是个人练手作品都能有一个好的开发习惯和规范。
+除此之外,编辑器使用、开发环境搭建、Git、Composer、Bootstrap 前端框架在本书中也会使用, 本书代码严格 PSR 规范编写,使用这些知识将会为你以后的 Web 开发生涯奠定结实的基础,无论在大型项目或是个人练手作品都能有一个好的开发习惯和规范。
 
 ## 版本
 
@@ -67,9 +67,9 @@
 
 有兴趣参与的开发者应该阅读行为准则。 [Code of Conduct (暂未推出)](#!).
 
-> 请不要在 Issues 上提出一般问题。Issues 只是报告错误，请求增强功能或请求新功能。对于一般性问题和讨论，请前往[InBuff Discord Community](https://discord.gg/Vzdj3qZ) / [InBuff QQ Group](https://shang.qq.com/wpa/qunwpaidkey=dec8e7ee2f7c5cef3acc975f66379b3751e29df5dc3d15537fb14f2265028387)  提问。
+> 请不要在 Issues 上提出一般问题。Issues 只是报告错误,请求增强功能或请求新功能。对于一般性问题和讨论,请前往[InBuff Discord Community](https://discord.gg/Vzdj3qZ) / [InBuff QQ Group](https://shang.qq.com/wpa/qunwpaidkey=dec8e7ee2f7c5cef3acc975f66379b3751e29df5dc3d15537fb14f2265028387)  提问。
 
-需要注意的是，对于每个版本，详细的更改都记录在 [发行说明](https://github.com/InStudy/ThinkPHP5.1-Web-Actual-combat/releases) 中。
+需要注意的是,对于每个版本,详细的更改都记录在 [发行说明](https://github.com/InStudy/ThinkPHP5.1-Web-Actual-combat/releases) 中。
 
 ### License
 
