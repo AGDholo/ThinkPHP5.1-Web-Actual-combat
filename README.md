@@ -1,31 +1,4 @@
-
-<p align="center">
-  <a href="https://InBuff.cn" target="_blank">
-    <img width="100"src="https://avatars1.githubusercontent.com/u/37958196">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/FU2dE8y">
-    <img src="https://discordapp.com/api/guilds/404158487678156802/widget.png" alt="Chat">
-  </a>
-</p>
-<br>
-
-<h2 align="center">赞助项目</h2>
-<p>ThinkPHP 5.1 教程 - Web 入门开发实战 是一个为了解决大多数新手开发者入门难,编写不规范等问题的入门教程书籍, 由 InBuff 发起. 如果您有兴趣支持此项目,请考虑成为赞助人.</p>
-
-<br>
-
-<h4 align="center">赞助商</h4>
-
-<p align="center">
-    <span>暂无</span>
-</p>
-
-<br>
-
-## 介绍
+# 介绍
 
 本书将教你使用现代工具流构建一个类似微博的应用。 
 
@@ -37,7 +10,18 @@
 
 这是 ThinkPHP 5.1 教程 - Web 入门开发实战 书籍内容
 
+## 赞助项目
+
+ThinkPHP 5.1 教程 - Web 入门开发实战 是一个为了解决大多数新手开发者入门难,编写不规范等问题的入门教程书籍, 由 InBuff 发起. 如果您有兴趣支持此项目,请考虑成为赞助人.
+
+## 感谢
+
+文档样式基于 Markdown.Lite: https://www.kancloud.cn/inbuff/markdown 进行构建
+
 ## 更新日志
+
+[2018-11-12]
+使用标准 markdown 语法重构所有文档
 
 [2018-06-14 10:00]
 
