@@ -45,7 +45,7 @@ ThinkPHP 5.1 教程 - Web 入门开发实战 是一个为了解决大多数新�
 
 ## 社区支持
 
-在 [InBuff Discord Community](https://discord.gg/Vzdj3qZ) / [InBuff QQ Group](https://shang.qq.com/wpa/qunwpaidkey=dec8e7ee2f7c5cef3acc975f66379b3751e29df5dc3d15537fb14f2265028387)  
+在 [InBuff Discord Community](https://discord.gg/Vzdj3qZ) / [InBuff QQ 群](ttps://jq.qq.com/?_wv=1027&k=5T19zAw)  
 进行讨论反馈
 
 ## 贡献
@@ -54,7 +54,7 @@ ThinkPHP 5.1 教程 - Web 入门开发实战 是一个为了解决大多数新�
 
 本书源码托管地址: [ThinkPHP5.1-Web-Actual-combat-code](https://github.com/InStudy/ThinkPHP5.1-Web-Actual-combat-code)
 
-> 请不要在 Issues 上提出一般问题。Issues 只是报告错误,请求增强功能或请求新功能。对于一般性问题和讨论,请前往[InBuff Discord Community](https://discord.gg/Vzdj3qZ) / [InBuff QQ Group](https://shang.qq.com/wpa/qunwpaidkey=dec8e7ee2f7c5cef3acc975f66379b3751e29df5dc3d15537fb14f2265028387)  提问。
+> 请不要在 Issues 上提出一般问题。Issues 只是报告错误,请求增强功能或请求新功能。对于一般性问题和讨论,请前往[InBuff Discord Community](https://discord.gg/Vzdj3qZ) / [InBuff QQ 群](https://jq.qq.com/?_wv=1027&k=5T19zAw)  提问。
 
 需要注意的是,对于每个版本,详细的更改都记录在 [发行说明](https://github.com/InStudy/ThinkPHP5.1-Web-Actual-combat/releases) 中。
 
