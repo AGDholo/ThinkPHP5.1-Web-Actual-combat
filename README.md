@@ -45,7 +45,7 @@ ThinkPHP 5.1 教程 - Web 入门开发实战 是一个为了解决大多数新�
 
 ## 社区支持
 
-在 [InBuff Discord Community](https://discord.gg/Vzdj3qZ) / [InBuff QQ 群](ttps://jq.qq.com/?_wv=1027&k=5T19zAw)  
+在 [InBuff Discord Community](https://discord.gg/Vzdj3qZ) / [InBuff QQ 群](https://jq.qq.com/?_wv=1027&k=5T19zAw)  
 进行讨论反馈
 
 ## 贡献
