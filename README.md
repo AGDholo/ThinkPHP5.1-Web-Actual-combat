@@ -8,7 +8,7 @@
 
 ## CDN
 
-海外朋友可访问 https://epiclearn.gitbook.io/thinkphp5-1-web-actual-combat/ 进行阅读
+海外朋友可访问 https://learn.epicdata.net/thinkphp5-1-web-actual-combat/ 进行阅读
 
 ## 版本
 
