@@ -17,11 +17,11 @@ PHP 5.6 及 PHP 7.0 在 2019-01-01 将正式停止维护,请开发时不要使�
 
 ## 赞助项目
 
-ThinkPHP 5.1 教程 - Web 入门开发实战 是一个为了解决大多数新手开发者入门难,编写不规范等问题的入门教程书籍, 由 InBuff 发起. 如果您有兴趣支持此项目,请考虑成为赞助人.
+ThinkPHP 5.1 教程 - Web 入门开发实战 是一个为了解决大多数新手开发者入门难,编写不规范等问题的入门教程书籍, 由 EpicData 发起. 如果您有兴趣支持此项目,请考虑成为赞助人.
 
 ## 感谢
 
-文档样式基于 Markdown.Lite: https://www.kancloud.cn/inbuff/markdown 进行构建
+文档样式基于 Markdown.Lite: https://www.kancloud.cn/epiclearn/markdown 进行构建
 
 ## 更新日志
 
@@ -45,7 +45,7 @@ ThinkPHP 5.1 教程 - Web 入门开发实战 是一个为了解决大多数新�
 
 ## 社区支持
 
-在 [InBuff Discord Community](https://discord.gg/Vzdj3qZ) / [InBuff QQ 群](https://jq.qq.com/?_wv=1027&k=5T19zAw)  
+在 [EpicData QQ 群](https://jq.qq.com/?_wv=1027&k=5T19zAw)  
 进行讨论反馈
 
 ## 贡献
@@ -53,11 +53,6 @@ ThinkPHP 5.1 教程 - Web 入门开发实战 是一个为了解决大多数新�
 本书内容托管地址: [ThinkPHP5.1-Web-Actual-combat](https://github.com/InStudy/ThinkPHP5.1-Web-Actual-combat)
 
 本书源码托管地址: [ThinkPHP5.1-Web-Actual-combat-code](https://github.com/InStudy/ThinkPHP5.1-Web-Actual-combat-code)
-
-> 请不要在 Issues 上提出一般问题。Issues 只是报告错误,请求增强功能或请求新功能。对于一般性问题和讨论,请前往[InBuff Discord Community](https://discord.gg/Vzdj3qZ) / [InBuff QQ 群](https://jq.qq.com/?_wv=1027&k=5T19zAw)  提问。
-
-需要注意的是,对于每个版本,详细的更改都记录在 [发行说明](https://github.com/InStudy/ThinkPHP5.1-Web-Actual-combat/releases) 中。
-
 ### License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="创用 CC 授权条款" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />ThinkPHP 5.1 教程 - Web 入门开发实战 著作采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">创用 CC 姓名标示-非商业性-相同方式分享 4.0 国际 授权条款.</a>授权.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a>进行许可。
