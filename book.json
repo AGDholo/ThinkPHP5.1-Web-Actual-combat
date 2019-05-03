@@ -2,6 +2,8 @@
     "plugins": [
         "highlight",
         "navigation",
-        "comment"
+        "comment",
+        "copy-code",
+        "image-zoom"
     ]
 }
