@@ -154,13 +154,20 @@ ul {
   border-radius: 6px;
   width: 100%;
   margin-top: 10px;
-  padding: 10px;
-  -webkit-box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.05);
-  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.05);
+  padding: 10px 0;
 }
 
 ul li {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
-  padding: 5px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  padding: 5px 0;
   list-style-type: none;
+}
+
+blockquote {
+  border-left: #5b3cc4 solid 4px;
+  border-top-left-radius: inherit;
+  border-bottom-left-radius: inherit;
+  left: 0;
+  content: "";
+  border-radius: 4px;
 }
