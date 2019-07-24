@@ -163,6 +163,11 @@ ul li {
   list-style-type: none;
 }
 
+ul:first-child li {
+  border: none;
+  padding: 0;
+}
+
 blockquote {
   border-left: #5b3cc4 solid 4px;
   border-top-left-radius: inherit;
