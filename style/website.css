@@ -1,84 +1,113 @@
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: 600;
   line-height: 1.25;
   border-left: 2px #5b3cc4;
-  -webkit-box-shadow: 0 20px 40px -15px rgba(0,0,0,.05);
-  box-shadow: 0 20px 40px -15px rgba(0,0,0,.05);
-  -webkit-transition: all .25s ease;
-  transition: all .25s ease;
+  -webkit-box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.05);
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
   border-bottom: 1px solid #f0f0f0;
 }
 
 h1 {
-  padding: 15px;
-  padding-left: 0;
+  padding: 15px 0;
   color: #5b3cc4;
   border-radius: 0;
-  font-size: 30px;
+  font-size: 3rem !important;
+  font-weight: 400 !important;
+  line-height: 3.125rem !important;
+  letter-spacing: normal !important;
 }
 
 h1 a {
   margin-left: 10px;
 }
 
-h2, h3, h4, h5, h6{
-  padding: 10px;
-  width: calc(100% - 30px);
-  border-bottom: 0!important;
-  font-weight: 700;
-  font-size: 1.4rem;
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding: 10px 0;
+  width: calc(100% - 10px);
+  border-bottom: 0 !important;
+  font-size: 2.125rem !important;
+  font-weight: 400 !important;
+  line-height: 2.5rem !important;
+  letter-spacing: 0.0073529412em !important;
 }
 
-h1:hover , h2:hover ,h3:hover ,h4:hover, h5:hover ,h6:hover {
-  padding-left: 30px;
+h1:hover,
+h2:hover,
+h3:hover,
+h4:hover,
+h5:hover,
+h6:hover {
+  padding-left: 10px;
 }
 
-h1 >a::before , h2 >a::before ,h3 >a::before ,h4 >a::before, h5 >a::before ,h6 >a::before {
-  content: '#' !important;
+h1 > a::before,
+h2 > a::before,
+h3 > a::before,
+h4 > a::before,
+h5 > a::before,
+h6 > a::before {
+  content: "#" !important;
 }
 
-h1 >a , h2 >a ,h3 >a ,h4 >a, h5 >a ,h6 >a {
-  font-size: .85em;
+h1 > a,
+h2 > a,
+h3 > a,
+h4 > a,
+h5 > a,
+h6 > a {
+  font-size: 0.85em;
   float: left;
-  margin-left: -.87em;
-  padding-right: .23em;
-  margin-top: .125em;
+  margin-left: -0.87em;
+  padding-right: 0.23em;
+  margin-top: 0.125em;
   opacity: 0;
   -webkit-transform: translate(-10px);
   transform: translate(-10px);
-  -webkit-transition: all .3s ease!important;
-  transition: all .3s ease!important;
+  -webkit-transition: all 0.3s ease !important;
+  transition: all 0.3s ease !important;
 }
 
 p {
   width: 100%;
-  padding: 6px 20px;
-  background: transparent!important;
+  padding: 3px 0px;
+  background: transparent !important;
   margin-top: 0;
   border-radius: 10px;
 }
 
 pre {
-  background-color: #f5f7fb!important;
-  line-height: 1.4;
+  background-color: #f5f7fb !important;
   border-radius: 6px;
-  padding: .6rem 1rem!important;
-  margin: .85rem 0;
   white-space: pre-wrap;
   word-break: break-word;
   overflow: auto;
   position: relative;
-  border-radius: 0!important;
-  font-family: Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace;
+  margin: 0;
+  background: transparent;
+  font-family: "Inconsolata", monospace;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.55;
 }
 
 pre code {
-  color: rgba(0,0,0,.65)!important;
+  color: rgba(0, 0, 0, 0.65) !important;
   padding: 0;
   background-color: transparent;
   border-radius: 0;
   margin: 0;
-  font-size: .85em;
+  font-size: 0.85em;
 }
 
 table {
@@ -86,8 +115,8 @@ table {
   margin-top: 10px;
   background: #fbfbfb;
   border-radius: 5px;
-  -webkit-box-shadow: 0 20px 40px -15px rgba(0,0,0,.05);
-  box-shadow: 0 20px 40px -15px rgba(0,0,0,.05);
+  -webkit-box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.05);
 }
 
 table th {
@@ -97,7 +126,7 @@ table th {
 tbody tr {
   background: #fff;
   border-radius: 5px;
-  transition: all .3s ease;
+  transition: all 0.3s ease;
   width: calc(100% - 10px);
   margin-left: 5px;
   z-index: 100;
@@ -107,8 +136,8 @@ tbody tr {
   background: #fff;
   padding: 6px 0;
   position: relative;
-  -webkit-transition: all .25s ease;
-  transition: all .3s ease;
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.3s ease;
 }
 
 tbody tr:hover {
@@ -126,12 +155,12 @@ ul {
   width: 100%;
   margin-top: 10px;
   padding: 10px;
-  -webkit-box-shadow: 0 20px 40px -15px rgba(0,0,0,.05);
-  box-shadow: 0 20px 40px -15px rgba(0,0,0,.05);
+  -webkit-box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.05);
 }
 
 ul li {
-  border-bottom: 1px solid rgba(0,0,0,.08);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
   padding: 5px;
   list-style-type: none;
 }
