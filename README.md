@@ -6,13 +6,11 @@
 
 除此之外,编辑器使用、开发环境搭建、Git、Composer、Bootstrap 前端框架在本书中也会使用, 本书代码严格 PSR 规范编写,使用这些知识将会为你以后的 Web 开发生涯奠定结实的基础,无论在大型项目或是个人练手作品都能有一个好的开发习惯和规范。
 
-## CDN
+## 浏览须知
 
-海外朋友可访问 https://learn.epicdata.net/thinkphp5-1-web-actual-combat/ 进行阅读
-
-## 版本
-
-这是 ThinkPHP 5.1 教程 - Web 入门开发实战 书籍内容
+这是 ThinkPHP 5.1 教程 - Web 入门开发实战 书籍内容  
+本书籍会实时同步在 https://learn.epicdata.net/thinkphp5-1-web-actual-combat/  
+由于看云对免费用户的限制，最新内容在看云会延迟推送。
 
 ## 安全提示
 PHP 7.1 在 2020-01-01 将正式停止维护,请开发时不要使用老版本的 PHP.  
