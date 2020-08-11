@@ -1,7 +1,9 @@
 # 介绍
 
 > 本书籍在看云及其他平台完全停止更新，最新内容请前往 https://heroui.net/ 查看
-
+> 本书籍源码请前往  
+> https://github.com/AGDholo/hero  
+> https://github.com/AGDholo/hero/tree/master/docs/thinkphp5.1
 本书将教你使用现代工具流构建一个类似微博的应用。 
 
 通过本书,你将会学到如 HTML、CSS、JavaScript、PHP、ThinkPHP 等 Web 开发的相关基础知识。
@@ -12,6 +14,9 @@
 
 这是 ThinkPHP 5.1 教程 - Web 入门开发实战 书籍内容  
 > 本书籍在看云及其他平台完全停止更新，最新内容请前往 https://heroui.net/ 查看
+> 本书籍源码请前往  
+> https://github.com/AGDholo/hero  
+> https://github.com/AGDholo/hero/tree/master/docs/thinkphp5.1
 
 ## 安全提示
 PHP 7.1 在 2020-01-01 将正式停止维护,请开发时不要使用老版本的 PHP.  
