@@ -1,5 +1,7 @@
 # 介绍
 
+> 本书籍在看云及其他平台完全停止更新，最新内容请前往 https://heroui.net/ 查看
+
 本书将教你使用现代工具流构建一个类似微博的应用。 
 
 通过本书,你将会学到如 HTML、CSS、JavaScript、PHP、ThinkPHP 等 Web 开发的相关基础知识。
@@ -9,8 +11,7 @@
 ## 浏览须知
 
 这是 ThinkPHP 5.1 教程 - Web 入门开发实战 书籍内容  
-本书籍会实时同步在 https://learn.epicdata.net/thinkphp5-1-web-actual-combat/  
-由于看云对免费用户的限制，最新内容在看云会延迟推送。
+> 本书籍在看云及其他平台完全停止更新，最新内容请前往 https://heroui.net/ 查看
 
 ## 安全提示
 PHP 7.1 在 2020-01-01 将正式停止维护,请开发时不要使用老版本的 PHP.  
